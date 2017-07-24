@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Ben Mayne']
   spec.email         = ['benmayne.git@gmail.com ']
 
-  spec.summary       = %q{Write a short summary, because Rubygems requires one.}
+  spec.summary       = %q{Simple gem to submit links to various internet archive services}
   spec.homepage      = 'https://github.com/benmayne/internet-archive-gem'
   spec.license       = 'MIT'
 
